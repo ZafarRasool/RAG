@@ -1,4 +1,4 @@
 # RAG
 RAG Exporation
 
-Basic implementation is currently available using LlamaIndex
+Basic RAG Implementation: Basic implementation is currently available using LlamaIndex
